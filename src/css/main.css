@@ -4,20 +4,6 @@
     font-weight: normal;
     font-style: normal;
 }
-/* reset */
-body{
-    margin: 0;
-}
-h1{
-    font-size: inherit;
-    font-weight: inherit;
-    margin: 0;
-}
-ul, li{
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
 
 /* unit */
 :root{
