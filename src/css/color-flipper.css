@@ -1,0 +1,15 @@
+.full-secreen-section{
+    position: relative;
+    width:100wv;
+    height: 100wh;
+}
+.switch-btn{
+    width:200px;
+    height: 100px;
+    position: absolute;
+    inset: 0;
+    margin: auto;
+    font-size: 20px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
